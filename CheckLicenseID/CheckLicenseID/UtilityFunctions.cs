@@ -13,6 +13,14 @@ namespace CheckLicenseID
 
             string ActualCodeID = "Actual ID number is: " + ActualID;
             Ranorex.Report.Error("STOP THE VERSION: ", ActualID);
+            
+
+        }
+        public static void RunPositiveID(string ActualID)
+        {
+
+            string ActualCodeID = "Actual ID number is: " + ActualID;
+            Ranorex.Report.Success("THE LICENSES ARE OK: ", ActualID);
 
         }
     }
@@ -37,7 +45,8 @@ namespace CheckLicenseID
             }
 
             else
-                return;
+                ReportAction.RunPositiveID(checkLicenseID);
+            
 
         }
     }

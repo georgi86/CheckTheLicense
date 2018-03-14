@@ -168,9 +168,9 @@ namespace CheckLicenseID
             /// Creates a new MeasureFitUntitled  folder.
             /// </summary>
             public MeasureFitUntitledAppFolder(RepoGenBaseFolder parentFolder) :
-                    base("MeasureFitUntitled", "/form[@title='MeasureFit - Untitled']", parentFolder, 30000, null, true, "50f4a009-a585-4287-beb1-72e2b605226d", "")
+                    base("MeasureFitUntitled", "/form[@title='MeasureFit - Untitled']", parentFolder, 60000, null, true, "50f4a009-a585-4287-beb1-72e2b605226d", "")
             {
-                _measurefituntitledInfo = new RepoItemInfo(this, "MeasureFitUntitled", "titlebar[@accessiblerole='TitleBar']", 30000, null, "77b078c2-47cc-43cc-93dd-b015712a6f73");
+                _measurefituntitledInfo = new RepoItemInfo(this, "MeasureFitUntitled", "titlebar[@accessiblerole='TitleBar']", 60000, null, "77b078c2-47cc-43cc-93dd-b015712a6f73");
             }
 
             /// <summary>
