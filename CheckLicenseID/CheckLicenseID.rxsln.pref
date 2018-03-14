@@ -1,0 +1,13 @@
+﻿<Properties>
+  <ActiveConfiguration value="Debug" />
+  <ActivePlatform value="x86" />
+  <SerializedValue name="ModuleBrowserState">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <string>{F095D421-44E0-462C-BA4D-F9AD8F7E0C8A}</string>
+      <string>6e12a760-6636-488c-b3e9-7d256aa61ae5</string>
+      <string>60513a05-eab7-41e7-8c10-e51c735edc2e</string>
+    </ArrayOfString>
+  </SerializedValue>
+  <ProjectBrowserState value="[Solution CheckLicenseID[CheckLicenseID[]]]&#xD;&#xA;Solution CheckLicenseID\CheckLicenseID\Recording1.rxrec&#xD;&#xA;Solution CheckLicenseID" />
+  <StartupProject value="{F095D421-44E0-462C-BA4D-F9AD8F7E0C8A}" />
+</Properties>

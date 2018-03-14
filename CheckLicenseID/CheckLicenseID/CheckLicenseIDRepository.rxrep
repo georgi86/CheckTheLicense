@@ -1,0 +1,83 @@
+﻿<repository
+id="2417d9aa-d468-4a3d-bf91-0f0f67521705"
+name="CheckLicenseIDRepository"
+rxversion="7.0">
+	<codegen
+	classname="CheckLicenseIDRepository"
+	namespace="CheckLicenseID">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="f6c71aa4-300d-4d0e-83ab-bec798549f11"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<appfolder
+		addcaps="form,nativewindow"
+		capname="form"
+		id="a9b246b4-cfc1-4e8d-a6a2-f58c523e592d"
+		isrooted="True"
+		name="About"
+		refpath="/form[@title='About']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="text,nativewindow"
+			capname="text"
+			id="5b1f8de7-2aaf-4f55-9f2a-0ea9837f43c3"
+			name="SentinelID"
+			refimgid="ef3b284f-44ac-44fc-bd95-3de82b3fbeda"
+			refpath="/form[@title='About']/text[@controlid='1719']"
+			searchtimeout="30000ms">
+				/form[@title='About']/text[@controlid='1719']
+			</item>
+			<basepath>
+				/form[@title='About']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAADESURBVDhPlZLdEQIhDITpxFJSioX4QFk+Uohj
+LZiFW8wtOWe8nZWwwBfvp5TS++7mromR694tcJv14qqueLUGgELipHoXqI7fpQiakNf3zCqiBEA1
+14QAQAgB7A5dACBepTwFAFM/ALydHMB/0dyARG9v5O1WAKyqj/P6Zg3Mn/I4iC6yljoN/zE+GnRT
+Z7lmmI8CTxUfCGuYNUasacZxbcg2ZZnbvL4d9QTA2EDHTOG8DY6niRoHuRbA99jk8nCWa2bWPw+r
+HrNQtCrWAAAAAElFTkSuQmCC
+			</icon>
+		</appfolder>
+		<appfolder
+		addcaps="form,nativewindow"
+		capname="form"
+		id="50f4a009-a585-4287-beb1-72e2b605226d"
+		isrooted="True"
+		name="MeasureFitUntitled"
+		refpath="/form[@title='MeasureFit - Untitled']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="titlebar,accessible"
+			capname="titlebar"
+			id="77b078c2-47cc-43cc-93dd-b015712a6f73"
+			name="MeasureFitUntitled"
+			refimgid="c5c13db5-7177-487b-b31d-7297292ce667"
+			refpath="/form[@title='MeasureFit - Untitled']/titlebar[@accessiblerole='TitleBar']"
+			searchtimeout="30000ms">
+				/form[@title='MeasureFit - Untitled']/titlebar[@accessiblerole='TitleBar']
+			</item>
+			<basepath>
+				/form[@title='MeasureFit - Untitled']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAADESURBVDhPlZLdEQIhDITpxFJSioX4QFk+Uohj
+LZiFW8wtOWe8nZWwwBfvp5TS++7mromR694tcJv14qqueLUGgELipHoXqI7fpQiakNf3zCqiBEA1
+14QAQAgB7A5dACBepTwFAFM/ALydHMB/0dyARG9v5O1WAKyqj/P6Zg3Mn/I4iC6yljoN/zE+GnRT
+Z7lmmI8CTxUfCGuYNUasacZxbcg2ZZnbvL4d9QTA2EDHTOG8DY6niRoHuRbA99jk8nCWa2bWPw+r
+HrNQtCrWAAAAAElFTkSuQmCC
+			</icon>
+		</appfolder>
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>
